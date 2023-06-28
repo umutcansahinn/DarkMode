@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">@color/dark_background</color>
+    <color name="card_view_background">@color/dark_card_view_background</color>
+    <color name="card_view_2_background">@color/dark_card_view2_background</color>
+    <color name="button_background">@color/dark_button_background</color>
+    <color name="button_text_background">@color/dark_button_text_background</color>
+    <color name="text_color">@color/dark_text_color</color>
+</resources>
